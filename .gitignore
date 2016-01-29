@@ -1,0 +1,6 @@
+#All Image Files
+*.png
+
+#All Debug Files
+*.txt
+
